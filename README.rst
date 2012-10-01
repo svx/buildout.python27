@@ -38,6 +38,6 @@ Further::
 .. _Plone: https://plone.org/
 .. _Debian Squeeze: http://www.debian.org/releases/stable/
 .. _collective buildout.python: https://github.com/collective/buildout.python
-.._Unified Installer: https://plone.org/documentation/manual/installing-plone/installing-on-linux-unix-bsd/what-is-the-unified-installer
+.. _Unified Installer: https://plone.org/documentation/manual/installing-plone/installing-on-linux-unix-bsd/what-is-the-unified-installer
 
 
