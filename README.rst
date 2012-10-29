@@ -29,8 +29,8 @@ Usually I install it into $USER/opt::
 Further::
 
     cd opt
-    git clone https://github.com/svx/squeeze-python27.git
-    cd squeeze-python
+    git clone https://github.com/svx/squeeze-python27.git python2.7
+    cd python2.7
     python bootstrap.py
     ./bin/buildout
 
